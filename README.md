@@ -30,7 +30,7 @@ End the program.
 ### Register Number: 212223240047
 
 ## OUTPUT:
-![image](https://github.com/HariharanJayavel/Word-count/assets/144870546/59260650-297d-4a69-bfaf-5046beef16c0)
+![image](https://github.com/HariharanJayavel/Word-count/assets/144870546/50becb03-2a61-44fc-8728-c40ea3fae4ce)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
