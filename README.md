@@ -28,9 +28,17 @@ End the program.
 ### Program to Find the word count
 ### Developed By: HARIHARAN J
 ### Register Number: 212223240047
+```
+num=0
+with open("sample.txt","r") as f1:
+  for i in f1:
+    word=i.split()
+    num+=len(word)
+print("The number of words are in the file is ",num)
+```
 
 ## OUTPUT:
-![image](https://github.com/HariharanJayavel/Word-count/assets/144870546/50becb03-2a61-44fc-8728-c40ea3fae4ce)
+![image](https://github.com/HariharanJayavel/Word-count/assets/144870546/2bc2d07b-e495-4ed0-90db-5373b1277c1a)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
